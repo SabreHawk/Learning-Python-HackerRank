@@ -1,2 +1,2 @@
 # Learning-Python-HackerRank
-test
+ Python Solutions In Section Python
